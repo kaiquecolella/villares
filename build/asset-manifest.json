@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4f5ada8.css",
+    "main.js": "/static/js/main.5907df23.js",
+    "static/js/787.78b959d8.chunk.js": "/static/js/787.78b959d8.chunk.js",
+    "static/media/pecas_carroceria_para_carros_importados_e_nacionais.png": "/static/media/pecas_carroceria_para_carros_importados_e_nacionais.7072f540ebe2f8773755.png",
+    "static/media/bmw_x2.png": "/static/media/bmw_x2.04b6a74565d0c93ca34e.png",
+    "static/media/fusca_tsi.png": "/static/media/fusca_tsi.c6637fc54dd18213c8fc.png",
+    "static/media/ThenewGolfGTI.png": "/static/media/ThenewGolfGTI.a6f38c6759aea9476ca5.png",
+    "static/media/pecas_mecanicas_para_carros_importados_e_nacionais.png": "/static/media/pecas_mecanicas_para_carros_importados_e_nacionais.92d84948ab6f1b40f8a2.png",
+    "static/media/volvo_s60.png": "/static/media/volvo_s60.ada6f0bcfc8d5642d49b.png",
+    "static/media/acessorios_para_carros_importados_e_nacionais.png": "/static/media/acessorios_para_carros_importados_e_nacionais.99f7aa05a100e1c048f8.png",
+    "static/media/carro_importado_background_pecas_de_carros_importados_xl.png": "/static/media/carro_importado_background_pecas_de_carros_importados_xl.4f36adbe2bb023df0b48.png",
+    "static/media/carro_desmanche_pecas_automotivas_motores.png": "/static/media/carro_desmanche_pecas_automotivas_motores.8eb56cfa1f9413fe9514.png",
+    "static/media/carro_desmanche_pecas_automotivas_carros_nacionais.png": "/static/media/carro_desmanche_pecas_automotivas_carros_nacionais.36f29552712f36f9b4b8.png",
+    "static/media/carro_desmanche_pecas_automotivas_jeep.png": "/static/media/carro_desmanche_pecas_automotivas_jeep.1ccace168f4ca09de717.png",
+    "static/media/carro_desmanche_pecas_automotivas_peugot.png": "/static/media/carro_desmanche_pecas_automotivas_peugot.8f66952f9289c60b9ec0.png",
+    "static/media/background_pecas.png": "/static/media/background_pecas.b3f4315c98a44d070722.png",
+    "static/media/pecas_carros_marca_fiat.png": "/static/media/pecas_carros_marca_fiat.262408152ab3975f8a12.png",
+    "static/media/pecas_carros_marca_honda.png": "/static/media/pecas_carros_marca_honda.f8e179b372ae8acbab86.png",
+    "static/media/pecas_carros_marca_toyota.png": "/static/media/pecas_carros_marca_toyota.b632b52466a1e60b2ec4.png",
+    "static/media/pecas_carros_marca_ford.png": "/static/media/pecas_carros_marca_ford.79f116b96638c4fbe6c4.png",
+    "static/media/logo_villares_auto_parts.png": "/static/media/logo_villares_auto_parts.760531fac85d9e4dc785.png",
+    "static/media/pecas_carros_marca_mercedes_benz.png": "/static/media/pecas_carros_marca_mercedes_benz.386502589ed9ccdbbca7.png",
+    "static/media/pecas_carros_marca_volkswagen.png": "/static/media/pecas_carros_marca_volkswagen.49e1292558c96af14ede.png",
+    "static/media/pecas_carros_marca_hyundai.png": "/static/media/pecas_carros_marca_hyundai.532a005c56602be1a7b2.png",
+    "static/media/pecas_carros_marca_audi.png": "/static/media/pecas_carros_marca_audi.ae0e955bf4b64e5a7750.png",
+    "static/media/pecas_carros_marca_nissan.png": "/static/media/pecas_carros_marca_nissan.a43e455dee9ef46c10d6.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.c88221ed8f62cd07294d.png",
+    "index.html": "/index.html",
+    "main.c4f5ada8.css.map": "/static/css/main.c4f5ada8.css.map",
+    "main.5907df23.js.map": "/static/js/main.5907df23.js.map",
+    "787.78b959d8.chunk.js.map": "/static/js/787.78b959d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f5ada8.css",
+    "static/js/main.5907df23.js"
+  ]
+}
