@@ -1,0 +1,9 @@
+@import './Global.scss';
+
+.btnLearnMore {
+    background-color: $grey;
+    &:hover {
+        background-color: $smokeWhite;
+        color: black;
+    }
+}

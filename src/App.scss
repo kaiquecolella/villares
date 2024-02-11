@@ -1,0 +1,61 @@
+@import './components/Global.scss';
+
+
+.containerFirstSection {
+  background: rgb(18, 18, 18);
+  background: -moz-linear-gradient(0deg, rgba(18, 18, 18, 1) 4%, rgba(93, 93, 93, 1) 28%, rgba(18, 18, 18, 1) 72%, rgba(18, 18, 18, 1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(18, 18, 18, 1) 4%, rgba(93, 93, 93, 1) 28%, rgba(18, 18, 18, 1) 72%, rgba(18, 18, 18, 1) 100%);
+  background: linear-gradient(0deg, rgba(18, 18, 18, 1) 4%, rgba(93, 93, 93, 1) 28%, rgba(18, 18, 18, 1) 72%, rgba(18, 18, 18, 1) 100%);
+}
+
+.firstSection {
+
+  h1 {
+    color: $grey;
+    padding: 5vw 0px 0px 0px;
+
+    @media (min-width: 991px) {
+      font-size: 3.5vw;
+    }
+  }
+
+  p {
+    color: $grey;
+
+    @media (min-width: 991px) {
+      font-size: 1.5vw;
+    }
+  }
+
+  span {
+    color: $smokeWhite;
+    a {
+      color: $green;
+    }
+  }
+}
+
+.spamAutomotiveAccessories {
+  color: white;
+  background-color: $grey;
+  background-image: url(images/background_pecas.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.automotiveAccessories {
+  margin-top: -50px;
+}
+
+.bgDark {
+  background-color: $dark;
+  color: $grey;
+}
+
+footer {
+  span {
+    color: $dark;
+  }
+}

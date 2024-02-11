@@ -1,0 +1,45 @@
+
+@import './Global.scss';
+
+
+header {
+    
+    .navbar {
+        background: rgb(16, 16, 16);
+
+    }
+    .logo {
+        width: 8rem;
+    }
+    .nav-link {
+        font-weight: 600;
+        color: $smokeWhite;
+        position: relative;
+        &:hover {
+            color: $grey;
+        }
+        &:focus {
+            color: $smokeWhite;
+        }
+        @media (min-width: 991px) {
+
+            &::before {
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 0%;
+                height: 1px;
+                background-color: $grey;
+                visibility: hidden;
+                transition: 0.3s ease-in-out;
+            }
+        
+            &:hover::before {
+                width: 95%;
+                visibility: visible;
+            }
+        }
+    }
+}

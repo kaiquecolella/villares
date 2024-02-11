@@ -1,0 +1,11 @@
+@import './Global.scss';
+
+form {
+    border: 1px solid rgb(125, 125, 125);
+    .btn{
+        background-color: $grey;
+        &:hover {
+            background-color: $smokeWhite;
+        }
+    }
+}

@@ -1,0 +1,10 @@
+@import './Global.scss';
+
+footer {
+    a {
+        color:$smokeWhite;
+        &:hover {
+            color: $grey;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.swiper-slide {
+    display: flex!important;
+    justify-content: center;
+    .swiper-button-next {
+        color: grey;
+    }
+    .swiper-button-prev {
+        color: grey;
+    }
+    .swiper-pagination-bullet {
+        background-color: grey;
+    }
+}
