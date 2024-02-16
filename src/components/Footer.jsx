@@ -1,4 +1,4 @@
-import Logo from '../images/logo_villares_auto_parts.png'
+import Logo from '../images/logo_villares_auto_parts.webp'
 import styles from './Footer.scss'
 
 function Footer() {
@@ -24,7 +24,7 @@ function Footer() {
                 </ul>
             </div>
         </div>
-        <div className='text-center bg-white col-6 mx-auto p-2 mt-5'>
+        <div className='text-center bg-white col-md-6 mx-auto p-2 mt-5'>
             <span>
                 Todos os direitos reservados <br />
                 © 2023 Copyright: villaresautoparts.com

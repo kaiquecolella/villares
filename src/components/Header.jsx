@@ -1,5 +1,5 @@
 import styles from './Header.scss'
-import Logo from '../images/logo_villares_auto_parts.png'
+import Logo from '../images/logo_villares_auto_parts.webp'
 import Whatsapp from './ButtonWpp'
 
 function Header() {
