@@ -1,5 +1,5 @@
 import styles from './ButtonWpp.scss'
-import Whatsapp from '../images/whatsapp.png'
+import Whatsapp from '../images/whatsapp.webp'
 
 function ButtonWpp() {
     return (

@@ -1,11 +1,10 @@
 import './App.scss';
 import Header from './components/Header';
-import carroSemFundo from './images/carro_importado_background_pecas_de_carros_importados_xl.png'
 import CardAutomotiveAccessories from './components/CardAutomotiveAccessories';
 import ProductsAndServices from './components/ProductsAndServices';
-import mechanicalParts from './images/pecas_mecanicas_para_carros_importados_e_nacionais.png'
-import automotiveAccessoriess from './images/acessorios_para_carros_importados_e_nacionais.png'
-import automotiveBody from './images/pecas_carroceria_para_carros_importados_e_nacionais.png'
+import mechanicalParts from './images/pecas_mecanicas_para_carros_importados_e_nacionais.webp'
+import automotiveAccessoriess from './images/acessorios_para_carros_importados_e_nacionais.webp'
+import automotiveBody from './images/pecas_carroceria_para_carros_importados_e_nacionais.webp'
 import CarrouselMarcas from './components/CarrouselMarcas';
 import CarrouselServices from './components/CarrouselServices';
 import CarrouselCarros from './components/CarrouselCarros';

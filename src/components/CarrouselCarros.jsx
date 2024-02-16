@@ -1,10 +1,10 @@
 import React from 'react';
 import CarrouselAutoPlay from './CarrouselAutoPlay';
 
-import Carro1 from '../images/bmw_x2.png';
-import Carro2 from '../images/ThenewGolfGTI.png';
-import Carro3 from '../images/volvo_s60.png';
-import Carro4 from '../images/fusca_tsi.png';
+import Carro1 from '../images/bmw_x2.webp';
+import Carro2 from '../images/thenewgolfgti.webp';
+import Carro3 from '../images/volvo_s60.webp';
+import Carro4 from '../images/fusca_tsi.webp';
 
 
 const imagensCarrousel = [

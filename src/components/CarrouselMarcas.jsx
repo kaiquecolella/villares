@@ -1,15 +1,15 @@
 import React from 'react';
 import Carrousel from './Carrousel';
 
-import Audi from '../images/pecas_carros_marca_audi.png';
-import Fiat from '../images/pecas_carros_marca_fiat.png';
-import Ford from '../images/pecas_carros_marca_ford.png';
-import Honda from '../images/pecas_carros_marca_honda.png';
-import Hyundai from '../images/pecas_carros_marca_hyundai.png';
-import Mercedes from '../images/pecas_carros_marca_mercedes_benz.png';
-import Nissan from '../images/pecas_carros_marca_nissan.png';
-import Toyota from '../images/pecas_carros_marca_toyota.png';
-import Volks from '../images/pecas_carros_marca_volkswagen.png';
+import Audi from '../images/pecas_carros_marca_audi.webp';
+import Fiat from '../images/pecas_carros_marca_fiat.webp';
+import Ford from '../images/pecas_carros_marca_ford.webp';
+import Honda from '../images/pecas_carros_marca_honda.webp';
+import Hyundai from '../images/pecas_carros_marca_hyundai.webp';
+import Mercedes from '../images/pecas_carros_marca_mercedes_benz.webp';
+import Nissan from '../images/pecas_carros_marca_nissan.webp';
+import Toyota from '../images/pecas_carros_marca_toyota.webp';
+import Volks from '../images/pecas_carros_marca_volkswagen.webp';
 
 const imagensCarrousel = [
     { id: '1', image: Audi },
