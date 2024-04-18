@@ -30,7 +30,7 @@ function Header() {
                                         <a className="nav-link" href="#scrollspy-Contact">Contato</a>
                                     </li>
                                 </ul>
-                                <a className="d-lg-none d-block" href="https://linktr.ee/kaiquecolella">
+                                <a className="d-lg-none d-block" href="https://wa.me/5511947750525">
                                     <button type="button" className="btn">WhatsApp</button>
                                 </a>
                             </div>
